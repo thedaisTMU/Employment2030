@@ -1,0 +1,121 @@
+noc,workshop.number,constant,decrease,increase,sum,not_increase,y,binned_y
+Accommodation service managers,4,0.47368421052631576,0.10526315789473684,0.42105263157894735,19.0,0.5789473684210527,constant,not_increase
+Accounting technicians and bookkeepers,4,0.3684210526315789,0.47368421052631576,0.15789473684210525,19.0,0.8421052631578947,decrease,not_increase
+"Air pilots, flight engineers and flying instructors",3,0.5,0.1,0.4,20.0,0.6,constant,not_increase
+Air transport ramp attendants,3,0.25,0.45,0.3,20.0,0.7,decrease,not_increase
+Airline ticket and service agents,3,0.25,0.7,0.05,20.0,0.95,decrease,not_increase
+Carpenters,3,0.35,0.2,0.45,20.0,0.55,increase,not_increase
+"Central control and process operators, petroleum, gas and chemical processing",1,0.3333333333333333,0.6666666666666666,0.0,21.0,1.0,decrease,not_increase
+Chefs,4,0.10526315789473684,0.0,0.8947368421052632,19.0,0.10526315789473684,increase,increase
+Computer network technicians,1,0.23809523809523808,0.09523809523809523,0.6666666666666666,21.0,0.3333333333333333,increase,increase
+Computer network technicians,2,0.17391304347826086,0.0,0.8260869565217391,23.0,0.17391304347826086,increase,increase
+Computer network technicians,3,0.2,0.3,0.5,20.0,0.5,increase,increase
+Computer network technicians,4,0.0,0.42105263157894735,0.5789473684210527,19.0,0.42105263157894735,increase,increase
+Computer network technicians,5,0.13333333333333333,0.0,0.8666666666666667,15.0,0.13333333333333333,increase,increase
+Computer network technicians,6,0.21739130434782608,0.21739130434782608,0.5652173913043478,23.0,0.43478260869565216,increase,increase
+Cooks,5,0.2857142857142857,0.0,0.7142857142857143,14.0,0.2857142857142857,increase,increase
+Correctional service officers,3,0.4,0.35,0.25,20.0,0.75,constant,not_increase
+Court clerks,1,0.23809523809523808,0.7619047619047619,0.0,21.0,1.0,decrease,not_increase
+Court clerks,2,0.391304347826087,0.5217391304347826,0.08695652173913043,23.0,0.9130434782608695,decrease,not_increase
+Court clerks,3,0.3,0.65,0.05,20.0,0.95,decrease,not_increase
+Court clerks,4,0.3684210526315789,0.5263157894736842,0.10526315789473684,19.0,0.8947368421052632,decrease,not_increase
+Court clerks,5,0.5333333333333333,0.4,0.06666666666666667,15.0,0.9333333333333333,constant,not_increase
+Court clerks,6,0.30434782608695654,0.43478260869565216,0.2608695652173913,23.0,0.7391304347826086,decrease,not_increase
+Delivery and courier service drivers,5,0.4666666666666667,0.26666666666666666,0.26666666666666666,15.0,0.7333333333333333,constant,not_increase
+Electrical mechanics,1,0.3333333333333333,0.19047619047619047,0.47619047619047616,21.0,0.5238095238095238,increase,not_increase
+Electrical mechanics,2,0.34782608695652173,0.043478260869565216,0.6086956521739131,23.0,0.391304347826087,increase,increase
+Electrical mechanics,3,0.15,0.15,0.7,20.0,0.3,increase,increase
+Electrical mechanics,4,0.21052631578947367,0.15789473684210525,0.631578947368421,19.0,0.3684210526315789,increase,increase
+Electrical mechanics,5,0.26666666666666666,0.2,0.5333333333333333,15.0,0.4666666666666667,increase,increase
+Electrical mechanics,6,0.2608695652173913,0.17391304347826086,0.5652173913043478,23.0,0.43478260869565216,increase,increase
+Financial managers,1,0.2857142857142857,0.38095238095238093,0.3333333333333333,21.0,0.6666666666666666,decrease,not_increase
+Financial managers,2,0.391304347826087,0.30434782608695654,0.30434782608695654,23.0,0.6956521739130435,constant,not_increase
+Financial managers,3,0.3,0.4,0.3,20.0,0.7,decrease,not_increase
+Financial managers,4,0.42105263157894735,0.3684210526315789,0.21052631578947367,19.0,0.7894736842105263,constant,not_increase
+Financial managers,5,0.13333333333333333,0.8,0.06666666666666667,15.0,0.9333333333333333,decrease,not_increase
+Financial managers,6,0.21739130434782608,0.6956521739130435,0.08695652173913043,23.0,0.9130434782608695,decrease,not_increase
+Fish and seafood plant workers,6,0.391304347826087,0.5217391304347826,0.08695652173913043,23.0,0.9130434782608695,decrease,not_increase
+Fishermen/women,6,0.08695652173913043,0.9130434782608695,0.0,23.0,1.0,decrease,not_increase
+Forestry technologists and technicians,1,0.38095238095238093,0.2857142857142857,0.3333333333333333,21.0,0.6666666666666666,constant,not_increase
+Forestry technologists and technicians,2,0.34782608695652173,0.4782608695652174,0.17391304347826086,23.0,0.8260869565217391,decrease,not_increase
+Forestry technologists and technicians,3,0.55,0.15,0.3,20.0,0.7,constant,not_increase
+Forestry technologists and technicians,4,0.3157894736842105,0.6842105263157895,0.0,19.0,1.0,decrease,not_increase
+Forestry technologists and technicians,5,0.26666666666666666,0.6666666666666666,0.06666666666666667,15.0,0.9333333333333333,decrease,not_increase
+Forestry technologists and technicians,6,0.30434782608695654,0.34782608695652173,0.34782608695652173,23.0,0.6521739130434783,decrease,not_increase
+Furniture and fixture assemblers and inspectors,1,0.0,1.0,0.0,21.0,1.0,decrease,not_increase
+Furniture and fixture assemblers and inspectors,2,0.13043478260869565,0.8260869565217391,0.043478260869565216,23.0,0.9565217391304348,decrease,not_increase
+Furniture and fixture assemblers and inspectors,3,0.1,0.65,0.25,20.0,0.75,decrease,not_increase
+Furniture and fixture assemblers and inspectors,4,0.05263157894736842,0.8947368421052632,0.05263157894736842,19.0,0.9473684210526315,decrease,not_increase
+Furniture and fixture assemblers and inspectors,5,0.0,1.0,0.0,15.0,1.0,decrease,not_increase
+Furniture and fixture assemblers and inspectors,6,0.0,0.9565217391304348,0.043478260869565216,23.0,0.9565217391304348,decrease,not_increase
+General farm workers,1,0.42857142857142855,0.5238095238095238,0.047619047619047616,21.0,0.9523809523809523,decrease,not_increase
+Graphic designers and illustrators,4,0.10526315789473684,0.0,0.8947368421052632,19.0,0.10526315789473684,increase,increase
+"Health policy researchers, consultants and program officers",2,0.17391304347826086,0.043478260869565216,0.782608695652174,23.0,0.21739130434782608,increase,increase
+Heavy-duty equipment mechanics,1,0.7619047619047619,0.0,0.23809523809523808,21.0,0.7619047619047619,constant,not_increase
+Industrial and manufacturing engineers,1,0.19047619047619047,0.19047619047619047,0.6190476190476191,21.0,0.38095238095238093,increase,increase
+Industrial and manufacturing engineers,2,0.043478260869565216,0.21739130434782608,0.7391304347826086,23.0,0.2608695652173913,increase,increase
+Industrial and manufacturing engineers,3,0.5,0.05,0.45,20.0,0.55,constant,not_increase
+Industrial and manufacturing engineers,4,0.3684210526315789,0.10526315789473684,0.5263157894736842,19.0,0.47368421052631576,increase,increase
+Industrial and manufacturing engineers,5,0.13333333333333333,0.26666666666666666,0.6,15.0,0.4,increase,increase
+Industrial and manufacturing engineers,6,0.2608695652173913,0.17391304347826086,0.5652173913043478,23.0,0.43478260869565216,increase,increase
+Instructors of persons with disabilities,1,0.42857142857142855,0.14285714285714285,0.42857142857142855,21.0,0.5714285714285714,constant,not_increase
+Instructors of persons with disabilities,2,0.34782608695652173,0.043478260869565216,0.6086956521739131,23.0,0.391304347826087,increase,increase
+Instructors of persons with disabilities,3,0.25,0.4,0.35,20.0,0.65,decrease,not_increase
+Instructors of persons with disabilities,4,0.3157894736842105,0.2631578947368421,0.42105263157894735,19.0,0.5789473684210527,increase,not_increase
+Instructors of persons with disabilities,5,0.3333333333333333,0.3333333333333333,0.3333333333333333,15.0,0.6666666666666666,constant,not_increase
+Instructors of persons with disabilities,6,0.30434782608695654,0.34782608695652173,0.34782608695652173,23.0,0.6521739130434783,decrease,not_increase
+"Labourers in food, beverage and associated products processing",1,0.23809523809523808,0.6666666666666666,0.09523809523809523,21.0,0.9047619047619048,decrease,not_increase
+"Labourers in food, beverage and associated products processing",2,0.17391304347826086,0.5652173913043478,0.2608695652173913,23.0,0.7391304347826086,decrease,not_increase
+"Labourers in food, beverage and associated products processing",3,0.35,0.5,0.15,20.0,0.85,decrease,not_increase
+"Labourers in food, beverage and associated products processing",4,0.3684210526315789,0.5263157894736842,0.10526315789473684,19.0,0.8947368421052632,decrease,not_increase
+"Labourers in food, beverage and associated products processing",5,0.13333333333333333,0.6666666666666666,0.2,15.0,0.8,decrease,not_increase
+"Labourers in food, beverage and associated products processing",6,0.43478260869565216,0.2608695652173913,0.30434782608695654,23.0,0.6956521739130435,constant,not_increase
+Lawyers and Quebec notaries,2,0.5652173913043478,0.2608695652173913,0.17391304347826086,23.0,0.8260869565217391,constant,not_increase
+Light duty cleaners,5,0.2,0.06666666666666667,0.7333333333333333,15.0,0.26666666666666666,increase,increase
+Managers in agriculture,1,0.23809523809523808,0.6190476190476191,0.14285714285714285,21.0,0.8571428571428571,decrease,not_increase
+Medical administrative assistants,1,0.38095238095238093,0.47619047619047616,0.14285714285714285,21.0,0.8571428571428571,decrease,not_increase
+Medical administrative assistants,2,0.17391304347826086,0.6956521739130435,0.13043478260869565,23.0,0.8695652173913043,decrease,not_increase
+Medical administrative assistants,3,0.2,0.45,0.35,20.0,0.65,decrease,not_increase
+Medical administrative assistants,4,0.47368421052631576,0.2631578947368421,0.2631578947368421,19.0,0.7368421052631579,constant,not_increase
+Medical administrative assistants,5,0.6666666666666666,0.3333333333333333,0.0,15.0,1.0,constant,not_increase
+Medical administrative assistants,6,0.2608695652173913,0.6086956521739131,0.13043478260869565,23.0,0.8695652173913043,decrease,not_increase
+"Oil and gas well drillers, servicers, testers and related workers",1,0.19047619047619047,0.7619047619047619,0.047619047619047616,21.0,0.9523809523809523,decrease,not_increase
+"Operators and attendants in amusement, recreation and sport",1,0.3333333333333333,0.2857142857142857,0.38095238095238093,21.0,0.6190476190476191,increase,not_increase
+"Operators and attendants in amusement, recreation and sport",2,0.17391304347826086,0.30434782608695654,0.5217391304347826,23.0,0.4782608695652174,increase,increase
+"Operators and attendants in amusement, recreation and sport",3,0.2,0.25,0.55,20.0,0.45,increase,increase
+"Operators and attendants in amusement, recreation and sport",4,0.15789473684210525,0.10526315789473684,0.7368421052631579,19.0,0.2631578947368421,increase,increase
+"Operators and attendants in amusement, recreation and sport",5,0.6,0.06666666666666667,0.3333333333333333,15.0,0.6666666666666666,constant,not_increase
+"Operators and attendants in amusement, recreation and sport",6,0.30434782608695654,0.5217391304347826,0.17391304347826086,23.0,0.8260869565217391,decrease,not_increase
+Painters and decorators (except interior decorators),4,0.7368421052631579,0.10526315789473684,0.15789473684210525,19.0,0.8421052631578947,constant,not_increase
+Paramedical occupations,6,0.25,0.08333333333333333,0.6666666666666666,24.0,0.3333333333333333,increase,increase
+Plastics processing machine operators,1,0.0,1.0,0.0,21.0,1.0,decrease,not_increase
+Plastics processing machine operators,2,0.2608695652173913,0.6956521739130435,0.043478260869565216,23.0,0.9565217391304348,decrease,not_increase
+Plastics processing machine operators,3,0.35,0.45,0.2,20.0,0.8,decrease,not_increase
+Plastics processing machine operators,4,0.05263157894736842,0.8947368421052632,0.05263157894736842,19.0,0.9473684210526315,decrease,not_increase
+Plastics processing machine operators,5,0.06666666666666667,0.8,0.13333333333333333,15.0,0.8666666666666667,decrease,not_increase
+Plastics processing machine operators,6,0.043478260869565216,0.9565217391304348,0.0,23.0,1.0,decrease,not_increase
+Real estate agents and salespersons,2,0.391304347826087,0.34782608695652173,0.2608695652173913,23.0,0.7391304347826086,constant,not_increase
+Registered nurses and registered psychiatric nurses,6,0.17391304347826086,0.0,0.8260869565217391,23.0,0.17391304347826086,increase,increase
+Restaurant and food service managers,2,0.30434782608695654,0.17391304347826086,0.5217391304347826,23.0,0.4782608695652174,increase,increase
+"Senior managers - financial, communications and other business services",1,0.3333333333333333,0.2857142857142857,0.38095238095238093,21.0,0.6190476190476191,increase,not_increase
+"Senior managers - financial, communications and other business services",2,0.6521739130434783,0.17391304347826086,0.17391304347826086,23.0,0.8260869565217391,constant,not_increase
+"Senior managers - financial, communications and other business services",3,0.4,0.3,0.3,20.0,0.7,constant,not_increase
+"Senior managers - financial, communications and other business services",4,0.2631578947368421,0.3157894736842105,0.42105263157894735,19.0,0.5789473684210527,increase,not_increase
+"Senior managers - financial, communications and other business services",5,0.4,0.4,0.2,15.0,0.8,constant,not_increase
+"Senior managers - financial, communications and other business services",6,0.5217391304347826,0.21739130434782608,0.2608695652173913,23.0,0.7391304347826086,constant,not_increase
+Shippers and receivers,5,0.13333333333333333,0.7333333333333333,0.13333333333333333,15.0,0.8666666666666667,decrease,not_increase
+"Steamfitters, pipefitters and sprinkler system installers",6,0.5652173913043478,0.13043478260869565,0.30434782608695654,23.0,0.6956521739130435,constant,not_increase
+"Store shelf stockers, clerks and order fillers",5,0.3333333333333333,0.6,0.06666666666666667,15.0,0.9333333333333333,decrease,not_increase
+"Supervisors, petroleum, gas and chemical processing and utilities",1,0.6190476190476191,0.14285714285714285,0.23809523809523808,21.0,0.7619047619047619,constant,not_increase
+"Supervisors, petroleum, gas and chemical processing and utilities",2,0.43478260869565216,0.30434782608695654,0.2608695652173913,23.0,0.7391304347826086,constant,not_increase
+"Supervisors, petroleum, gas and chemical processing and utilities",3,0.25,0.1,0.65,20.0,0.35,increase,increase
+"Supervisors, petroleum, gas and chemical processing and utilities",4,0.3684210526315789,0.3157894736842105,0.3157894736842105,19.0,0.6842105263157895,constant,not_increase
+"Supervisors, petroleum, gas and chemical processing and utilities",5,0.2,0.7333333333333333,0.06666666666666667,15.0,0.9333333333333333,decrease,not_increase
+"Supervisors, petroleum, gas and chemical processing and utilities",6,0.34782608695652173,0.08695652173913043,0.5652173913043478,23.0,0.43478260869565216,increase,increase
+Technical sales specialists - wholesale trade,2,0.17391304347826086,0.08695652173913043,0.7391304347826086,23.0,0.2608695652173913,increase,increase
+Underground production and development miners,1,0.19047619047619047,0.8095238095238095,0.0,21.0,1.0,decrease,not_increase
+Underground production and development miners,2,0.21739130434782608,0.5652173913043478,0.21739130434782608,23.0,0.782608695652174,decrease,not_increase
+Underground production and development miners,3,0.3,0.55,0.15,20.0,0.85,decrease,not_increase
+Underground production and development miners,4,0.2631578947368421,0.5789473684210527,0.15789473684210525,19.0,0.8421052631578947,decrease,not_increase
+Underground production and development miners,5,0.2,0.6666666666666666,0.13333333333333333,15.0,0.8666666666666667,decrease,not_increase
+Underground production and development miners,6,0.30434782608695654,0.34782608695652173,0.34782608695652173,23.0,0.6521739130434783,decrease,not_increase

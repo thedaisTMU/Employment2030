@@ -1,0 +1,14 @@
+value.Service Orientation
+value.Computers and Electronics
+value.Chemistry
+value.Information Ordering
+value.Monitoring
+value.Time Sharing
+value.Management of Material Resources
+value.Flexibility of Closure
+value.Persuasion
+value.Memorization
+value.Finger Dexterity
+value.Learning Strategies
+value.Far Vision
+value.Biology

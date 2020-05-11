@@ -1,0 +1,10 @@
+value.Critical Thinking
+value.Systems Evaluation
+value.Fluency of Ideas
+value.Category Flexibility
+value.Memorization
+value.Flexibility of Closure
+value.Selective Attention
+value.Customer and Personal Service
+value.Computers and Electronics
+value.Chemistry
