@@ -5,8 +5,8 @@ some of the testing that was conducted, and the feature analysis exercise that w
 the R code and data for the demographic analysis (largely due to the size of the Statistics Canada custom tables), if you have questions about how that was done or how we accessed the data,
 please contact us at jzachariah@ryerson.ca. If you haven't already, we strongly recommend you read the report (as well as the appendix) before diving in here.
 
-English: *****Link
-French: ****** Link
+English: https://brookfieldinstitute.ca/report/ahead-by-a-century-employment-in-2030/?mc_cid=033ac95e6c&mc_eid=462592d321
+French: https://brookfieldinstitute.ca/report/une-decennie-davance-lemploi-en-2030/?mc_cid=033ac95e6c&mc_eid=462592d321
 
 Below is a description of each folder and its contents.
 
